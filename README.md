@@ -17,5 +17,10 @@ The objective of this project is to clean a raw dataset by handling missing valu
 - Verified the Date column format.
 - Saved the cleaned dataset as a new Excel file.
 
+## Dataset
+The dataset used for this project is provided as part of the DecodeLabs Data Analytics Internship.
+
 ## Output
-- Cleaned_Dataset_Project1.xlsx
+The cleaned dataset is saved as:
+
+Cleaned_Dataset_Project1.xlsx
