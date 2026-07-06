@@ -1,2 +1,21 @@
-# DecodeLabs-Data-Cleaning_project1
-Data Cleaning and Preparation using Python (Pandas)
+# DecodeLabs Project 1 - Data Cleaning & Preparation
+
+## Objective
+The objective of this project is to clean a raw dataset by handling missing values, removing duplicate records, and ensuring correct data formats using Python and Pandas.
+
+## Tools Used
+- Python
+- Pandas
+- OpenPyXL
+
+## Steps Performed
+- Loaded the Excel dataset.
+- Identified missing values.
+- Checked duplicate rows.
+- Removed duplicate records.
+- Filled missing values in the CouponCode column with "No Coupon".
+- Verified the Date column format.
+- Saved the cleaned dataset as a new Excel file.
+
+## Output
+- Cleaned_Dataset_Project1.xlsx
